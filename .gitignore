@@ -1,0 +1,5 @@
+DATA/input.csv
+output.csv
+MODELS_AND_PIPELINES/
+understanding_folder/
+*.pkl
